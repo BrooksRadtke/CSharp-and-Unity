@@ -13,3 +13,10 @@ Move a ball through a simple maze using A,S,D,W or the arrow keys to navigate to
 * Integrate simple UI and button functionality
 * Reload scene and assets
 * Add polish to prototype
+
+### SolarSystem
+Solar System simulation prototype featuring examples of satellite rotation around targeted objects 
+
+##### Objectives:
+* Write script to control rotate speed of object on its own axis
+* Create a target object for child object to rotate around
