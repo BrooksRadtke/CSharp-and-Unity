@@ -1,6 +1,7 @@
 # CSharp-and-Unity
 ### Overview
 This 'repository' serves as a Table of Contents for referencing prototype projects rendered with the Unity3D engine using C#.
+___
 
 ### [Mazegame](https://github.com/BrooksRadtke/MazeGame)
 #### Overview
@@ -13,8 +14,9 @@ Move a ball through a simple maze using A,S,D,W or the arrow keys to navigate to
 * Integrate simple UI and button functionality
 * Reload scene and assets
 * Add polish to prototype
+* ___
 
-### SolarSystem
+### [SolarSystem](https://github.com/BrooksRadtke/SolarSystem)
 Solar System simulation prototype featuring examples of satellite rotation around targeted objects 
 
 ##### Objectives:
