@@ -3,6 +3,15 @@
 This 'repository' serves as a Table of Contents for referencing prototype projects rendered with the Unity3D engine using C#.
 ___
 
+### [LightLerp](https://github.com/BrooksRadtke/LightLerp.github.io)
+#### Overview
+An exercise on interpolation of light components. In this project, I use a small scene for exploring interpolation between three light components:
+
+* Location, i.e. the object transform
+* Intensity
+* Color
+___
+
 ### [Mazegame](https://github.com/BrooksRadtke/MazeGame)
 #### Overview
 Move a ball through a simple maze using A,S,D,W or the arrow keys to navigate to the goal!
